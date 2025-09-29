@@ -18,7 +18,7 @@
     ],
     "pins": [0, 4, 12],
     "types": ["SPEED", "CONTINUOUS_SERVO", "SERVO"]
-  }
+  },
   "Motor B": {
     "motor1C": 6,
     "motor1CC": 5,
