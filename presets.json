@@ -1,14 +1,14 @@
 {
   "Motor A": {
-    "motor1C": 7,
-    "motor1CC": 8,
-    "motor2C": 5,
-    "motor2CC": 6,
+    "motor1C": 6,
+    "motor1CC": 5,
+    "motor2C": 8,
+    "motor2CC": 7,
     "motorValues": [
       {
         "first":50,
         "second":180,
-        "third":180
+        "third":90
       },
       {
         "first":50,
@@ -16,7 +16,27 @@
         "third":0
       }
     ],
-    "pins": [4, 12, 12],
+    "pins": [0, 4, 12],
     "types": ["SPEED", "CONTINUOUS_SERVO", "SERVO"]
+  }
+  "Motor B": {
+    "motor1C": 6,
+    "motor1CC": 5,
+    "motor2C": 8,
+    "motor2CC": 7,
+    "motorValues": [
+      {
+        "first":50,
+        "second":90,
+        "third":90
+      },
+      {
+        "first":50,
+        "second":0,
+        "third":0
+      }
+    ],
+    "pins": [0, 4, 12],
+    "types": ["SPEED", "SERVO", "SERVO"]
   }
 }
