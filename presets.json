@@ -8,12 +8,12 @@
       {
         "first":50,
         "second":180,
-        "third":90
+        "third":0
       },
       {
         "first":50,
         "second":0,
-        "third":0
+        "third":90
       }
     ],
     "pins": [0, 4, 12],
@@ -27,13 +27,13 @@
     "motorValues": [
       {
         "first":50,
-        "second":90,
-        "third":90
+        "second":0,
+        "third":0
       },
       {
         "first":50,
-        "second":0,
-        "third":0
+        "second":95,
+        "third":95
       }
     ],
     "pins": [0, 4, 12],
